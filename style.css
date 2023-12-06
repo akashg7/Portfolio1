@@ -1,0 +1,18 @@
+*{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+body{justify-content: center;
+
+}
+.Hero{
+    position: absolute;
+    margin-left: 200px;
+}
+
+.portfoliobar {
+    position: absolute;
+}
+.portfoliobar a h1{
+    margin-bottom: 100px;
+}
